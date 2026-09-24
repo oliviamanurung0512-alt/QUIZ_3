@@ -56,7 +56,7 @@ describe('OrangeHRM - Login Feature', () => {
             .type('admin123')
 
         cy.get('button[type="submit"]')
-            .click()
+            .click()    
 
         cy.contains('Required').should('be.visible')
     })
