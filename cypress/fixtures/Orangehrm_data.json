@@ -1,0 +1,9 @@
+{
+  "validUsername": "Admin",
+  "validPassword": "admin123",
+  "invalidPassword": "password123",
+  "unregisteredUser": "UserTidakTerdaftar",
+  "spacedUsername": "  Admin  ",
+  "lowercaseUsername": "admin",
+  "shortPassword": "123"
+}
