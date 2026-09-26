@@ -1,0 +1,10 @@
+{
+  "searchQuery": {
+    "validName": "Orange Test",
+    "invalidName": "NonExistentNameXYZ"
+  },
+  "filters": {
+    "jobTitle": "QA Engineer",
+    "location": "New York Office"
+  }
+}
